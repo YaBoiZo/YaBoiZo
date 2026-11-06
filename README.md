@@ -22,5 +22,6 @@ Python, TypeScript, JavaScript, React, FastAPI, Electron, Playwright, Ollama and
 
 ## Connect
 
+- [Zoracle](https://zoracle.ca) (my business)
 - [Portfolio](https://zohaib-syed-portfolio.vercel.app)
 - [LinkedIn](https://www.linkedin.com/in/zohaib-syed-406834231/)
